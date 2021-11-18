@@ -1,0 +1,9 @@
+/home/usuario/Documentos/LP1/Codigo/trabalho-01-implementando-algoritmos-de-busca-victorvieirat/build/CMakeFiles/edit_cache.dir
+/home/usuario/Documentos/LP1/Codigo/trabalho-01-implementando-algoritmos-de-busca-victorvieirat/build/CMakeFiles/run_tests.dir
+/home/usuario/Documentos/LP1/Codigo/trabalho-01-implementando-algoritmos-de-busca-victorvieirat/build/CMakeFiles/rebuild_cache.dir
+/home/usuario/Documentos/LP1/Codigo/trabalho-01-implementando-algoritmos-de-busca-victorvieirat/build/CMakeFiles/timing.dir
+/home/usuario/Documentos/LP1/Codigo/trabalho-01-implementando-algoritmos-de-busca-victorvieirat/build/CMakeFiles/sa.dir
+/home/usuario/Documentos/LP1/Codigo/trabalho-01-implementando-algoritmos-de-busca-victorvieirat/build/tests/CMakeFiles/edit_cache.dir
+/home/usuario/Documentos/LP1/Codigo/trabalho-01-implementando-algoritmos-de-busca-victorvieirat/build/tests/CMakeFiles/all_tests.dir
+/home/usuario/Documentos/LP1/Codigo/trabalho-01-implementando-algoritmos-de-busca-victorvieirat/build/tests/CMakeFiles/rebuild_cache.dir
+/home/usuario/Documentos/LP1/Codigo/trabalho-01-implementando-algoritmos-de-busca-victorvieirat/build/tests/CMakeFiles/TM.dir

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsa.a CMakeFiles/sa.dir/src/searching.cpp.o
+/usr/bin/ranlib libsa.a
